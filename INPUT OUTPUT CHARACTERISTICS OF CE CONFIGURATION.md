@@ -17,8 +17,10 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 ## FORWARD BIAS:
 
 ## REVERSE BIAS:
+![WhatsApp Image 2025-11-27 at 6 50 39 PM](https://github.com/user-attachments/assets/33db943c-9e90-4a79-a46c-2f2561f66b41)
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-27 at 6 50 40 PM (2)](https://github.com/user-attachments/assets/c9ce2c6e-0a52-4e65-be5e-35941f8a6faf)
 
 ## PROCEDURE:  
 ## INPUT CHARACTERISTICS
@@ -39,39 +41,41 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 
 ## FORMULA USED
 
-**Input Impedance**  
+**Input Impedance**  hie = ΔVBE / ΔIB (Ω)     (VCE constant)
 **h<sub>ie</sub> = ΔV<sub>BE</sub> / ΔI<sub>B</sub>  (Ω)** &nbsp;&nbsp;&nbsp; *(V<sub>CE</sub> constant)*  
 
-**Output Admittance**  
+**Output Admittance**  hoe = ΔIC / ΔVCE (mho)     (IB constant)
 **h<sub>oe</sub> = ΔI<sub>C</sub> / ΔV<sub>CE</sub>  (mho)** &nbsp;&nbsp;&nbsp; *(I<sub>B</sub> constant)*  
 
-**Forward Current Gain**  
+**Forward Current Gain**  hfe = ΔIC / ΔIB (VCE = constant)
 **h<sub>fe</sub> = ΔI<sub>C</sub> / ΔI<sub>B</sub>**   *(V<sub>CE</sub> = constant)*
 
-**Reverse Voltage Gain**  
+**Reverse Voltage Gain** hre = ΔVBE / ΔVCE (IB = constant) 
 **h<sub>re</sub> = ΔV<sub>BE</sub> / ΔV<sub>CE</sub>**  *(I<sub>B</sub> = constant)*
 
 
 ## TABULATION:
 
 ## INPUT CHARATERISTICS:
+![WhatsApp Image 2025-11-27 at 6 50 40 PM](https://github.com/user-attachments/assets/b14ed80f-c1b6-474a-ad67-7ee9a740de44)
 
 ## OUTPUT CHARATERISTICS:
-
-## CALCULATIONS:
+![WhatsApp Image 2025-11-27 at 6 50 40 PM (1)](https://github.com/user-attachments/assets/5a4c5aff-289b-4948-b3b6-dc7f295e0f49)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-27 at 6 50 40 PM (3)](https://github.com/user-attachments/assets/d2939930-7e15-4bfa-8c80-c8a8c48deca6)
+![WhatsApp Image 2025-11-27 at 6 50 41 PM](https://github.com/user-attachments/assets/5f36fb36-3016-40c3-a498-3ec589639405)
 
  ## RESULT:
  The input and output characteristics of transistor in CE mode is drawn and, the h parameters are calculated.
  **Input Impedance**  
-**h<sub>ie</sub> =** _________  (Ω)
+**h<sub>ie</sub> =** ___268______  (Ω)
 
 **Output Admittance**  
-**h<sub>oe</sub> =** _________  (mho)
+**h<sub>oe</sub> =** ___0.0001______  (mho)
 
 **Forward Current Gain**  
-**h<sub>fe</sub> =** _________
+**h<sub>fe</sub> =** ___0.537 A______
 
 **Reverse Voltage Gain**  
-**h<sub>re</sub> =** _________
+**h<sub>re</sub> =** ___0.05 V______
